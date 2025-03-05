@@ -23,4 +23,5 @@ Transformation from Cube to Parallelogram using Linear Transformations / Padding
 <img src="DemoPics/ConfigReadWrite.png" alt="Configs Template" width="400"/>
 3. Change the Chunk's BlockPrefab to your new object and save.
 <img src="DemoPics/ConfigObject.png" alt="Configs Object" width="400"/>
+4. Fine-tune the padding and vectors according to the object passed
 
