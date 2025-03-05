@@ -3,7 +3,13 @@
 A Unity-based system for generating chunks from Blender-imported objects and applying linear transformations dynamically. This project makes chunk generation more engaging with creativity!
 This project handles meshes and colliders manipulation, simple transformation updates, making it ideal for terrain systems.
 
-### Parameters are fine-tunable through the World GameObject in the Sample Scene provided! ###
+### Fine-tunable Parameters ###
+<img src="DemoPics/WorldConfigs.png" alt="Parameters Image" width="600"/>
+1. Vector1, Vector2, Vector3, represent the linear transformation vectors in the 3D space, such vectors in the example image does not make any changes as they are 1's.
+2. X_offset, represents the shift in X-axis as the Y increases, resulting in a Brick-Wall effect.
+3. Chuck Size_X,Y,Z represent each chunk dimensions.
+4. X,Y,Z_Padding represent the padding between each voxel, This is useful when object passed is not a cube.
+
 ## Demo Pictures ##
 
 No transformations / Padding = 0 
