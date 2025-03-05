@@ -7,6 +7,8 @@ This project handles meshes and colliders manipulation, simple transformation up
 ## Demo Pictures ##
 <img src="DemoPics/Demo1.png" alt="Demo Image" width="600"/>
 
+<img src="DemoPics/Demo2.png" alt="Demo Image 2" width="600"/>
+
 ### This Demo was created using the following object created on Blender ###
 <img src="DemoPics/BlenderObject.png" alt="Blender Object" width="400"/>
 <img src="DemoPics/ObjectTemplate.png" alt="Object Template" width="400"/>
