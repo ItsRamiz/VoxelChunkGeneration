@@ -5,8 +5,9 @@ This project handles meshes and colliders manipulation, simple transformation up
 
 ### All parameters are fine-tunable through the World GameObject in the Sample Scene provided! ###
 ## Demo Pictures ##
+No transformations / Padding = 0 
 <img src="DemoPics/Demo1.png" alt="Demo Image" width="600"/>
-This was created padding = 1 for visualization.
+Transformation from Cube to parallelogram using Linear Transformations / Padding = 1 for visualization.
 <img src="DemoPics/Demo2.png" alt="Demo Image 2" width="600"/>
 
 ### This Demo was created using the following object created on Blender ###
