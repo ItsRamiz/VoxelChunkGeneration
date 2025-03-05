@@ -9,7 +9,7 @@ This project handles meshes and colliders manipulation, simple transformation up
 * Vector1, Vector2, Vector3, represent the linear transformation vectors in the 3D space, such vectors in the example image does not make any changes as they are 1's.
 * X_offset, represents the shift in X-axis as the Y increases, resulting in a Brick-Wall effect.
 * Chuck Size_X,Y,Z represent each chunk dimensions.
-* X,Y,Z_Padding represent the padding between each voxel, This is useful when object passed is not a cube.
+* X,Y,Z_Padding represent the padding between each voxel, This is useful when object passed is not a cube to avoid overlapping.
 
 ## Demo Pictures ##
 
