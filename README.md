@@ -9,4 +9,5 @@ This project handles meshes and colliders manipulation, simple transformation up
 
 ## This Demo was created using the following object created on Blender ##
 <img src="DemoPics/BlenderObject.png" alt="Blender Object" width="400"/>
+<img src="DemoPics/ObjectTemplate.png" alt="Object Template" width="400"/>
 
