@@ -25,7 +25,7 @@ Transformation from Cube to Parallelogram using Linear Transformations / Padding
 <img src="DemoPics/ObjectTemplate.png" alt="Object Template" width="400"/>
 
 ## How to Use ##
-1. Create your desired shape for each Voxel [Basic Tutorial](https://www.youtube.com/watch?v=ZYYkdNhfMhw)
+1. Create your desired shape for each Voxel [Basic Tutorial](https://www.youtube.com/watch?v=ZYYkdNhfMhw) and export as .fbx
 2. In the object's Inspect Tab set Read/Write to True
 <img src="DemoPics/ConfigReadWrite.png" alt="Configs Template" width="400"/>
 3. Change the Chunk's BlockPrefab to your new object and save.
