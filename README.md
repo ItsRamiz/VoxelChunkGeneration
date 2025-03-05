@@ -5,7 +5,7 @@ This project handles meshes and colliders manipulation, simple transformation up
 
 ### All parameters are fine-tunable through the World GameObject in the Sample Scene provided! ###
 # Demo Pictures #
-<img src="DemoPics/Demo1.png" alt="Demo Image" width="400"/>
+<img src="DemoPics/Demo1.png" alt="Demo Image" width="600"/>
 
 ## This Demo was created using the following object created on Blender ##
 ![alt text](DemoPics/BlenderObject.png)
