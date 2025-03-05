@@ -5,10 +5,10 @@ This project handles meshes and colliders manipulation, simple transformation up
 
 ### Fine-tunable Parameters ###
 <img src="DemoPics/WorldConfigs.png" alt="Parameters Image" width="600"/>
-1. Vector1, Vector2, Vector3, represent the linear transformation vectors in the 3D space, such vectors in the example image does not make any changes as they are 1's.
-2. X_offset, represents the shift in X-axis as the Y increases, resulting in a Brick-Wall effect.
-3. Chuck Size_X,Y,Z represent each chunk dimensions.
-4. X,Y,Z_Padding represent the padding between each voxel, This is useful when object passed is not a cube.
+* Vector1, Vector2, Vector3, represent the linear transformation vectors in the 3D space, such vectors in the example image does not make any changes as they are 1's.
+* X_offset, represents the shift in X-axis as the Y increases, resulting in a Brick-Wall effect.
+* Chuck Size_X,Y,Z represent each chunk dimensions.
+* X,Y,Z_Padding represent the padding between each voxel, This is useful when object passed is not a cube.
 
 ## Demo Pictures ##
 
