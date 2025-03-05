@@ -7,6 +7,7 @@ This project handles meshes and colliders manipulation, simple transformation up
 ## Demo Pictures ##
 
 No transformations / Padding = 0 
+
 <img src="DemoPics/Demo1.png" alt="Demo Image" width="600"/>
 
 Transformation from Cube to parallelogram using Linear Transformations / Padding = 1 for visualization.
