@@ -17,3 +17,6 @@ Transformation from Cube to parallelogram using Linear Transformations / Padding
 <img src="DemoPics/BlenderObject.png" alt="Blender Object" width="300"/>
 <img src="DemoPics/ObjectTemplate.png" alt="Object Template" width="400"/>
 
+## How to Use ##
+1. Create your desired shape for each Voxel [Basic Tutorial](https://www.youtube.com/watch?v=ZYYkdNhfMhw)
+
