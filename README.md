@@ -19,4 +19,6 @@ Transformation from Cube to parallelogram using Linear Transformations / Padding
 
 ## How to Use ##
 1. Create your desired shape for each Voxel [Basic Tutorial](https://www.youtube.com/watch?v=ZYYkdNhfMhw)
+2. In the object's Inspect Tab set Read/Write to True
+<img src="DemoPics/ConfigReadWrite.png" alt="Configs Template" width="400"/> 
 
